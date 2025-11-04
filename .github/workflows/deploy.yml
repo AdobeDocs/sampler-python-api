@@ -16,7 +16,7 @@ on:
         description: "Exclude a subfolder from deletion"
         required: false
         default: ""
-      
+
 jobs:
   deployment:
     name: Deployment
